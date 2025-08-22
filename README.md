@@ -1,10 +1,4 @@
-<style>
-  hr {
-  border: none; /* Remove default border */
-  border-top: 1px solid #ccc; /* Add a thin top border */
-}
-  
-</style>
+
 
 ### 👋 Hello, World!  🌎
 
