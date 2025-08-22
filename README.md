@@ -1,13 +1,12 @@
 
 
-### 👋  Hello, World!  🌎
+### 👋  Hello, World!  🌎  
 
 
 
 
-👩 My name is Melissa. 
-
-📍 I am located near Minneapolis, Minnesota.
+👩 My name is Melissa.  
+📍 I am located near Minneapolis, Minnesota.  
 
 
 
