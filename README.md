@@ -1,4 +1,4 @@
-## Hello, World! :1F30E:
+## Hello, World! 🌎
 
 <!--
 **melissa-webdev/melissa-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
