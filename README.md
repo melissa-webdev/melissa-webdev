@@ -4,8 +4,11 @@
 
 
 
+
 👩 My name is Melissa. 
+
 📍 I am located near Minneapolis, Minnesota.
+
 
 
 I am a software developer specializing in NetSuite, B2B distribution, and E-commerce. I have extensive experience with SuiteScript 2.x, SuiteCommerce Advanced development, NetSuite Administration, WordPress/WooCommerce, Shopify, and Project Management. 
